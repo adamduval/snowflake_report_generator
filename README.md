@@ -4,4 +4,13 @@ This is a quick proof of concept project to test out the functionality of Snowfl
 
 {{placeholder for demo video}}
 
+## Features
+- dynamically generated pdf reports for product lines A,B,C
+- report can be visualized in notebook for testing
+- dynamic email customized for each manager
+- pdf reports are archived to an internal incase they need to be referenced later
+- entire work flow is orchestrated from a single notebook that can be run adhoc or scheduled daily
+- email failure altering, an email will be sent out if anyone of the reports fails to generate and send
+
 ## Requirements
+
