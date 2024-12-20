@@ -63,6 +63,7 @@ https://github.com/user-attachments/assets/82e1c99c-a5b8-4a6c-967f-9b8965a58f10
 
 ### 3. Report Development
 - Run the `01_REPORT_GEN__REPORT` notebook to view and test the demo report.
+  - Add the logo file to the notebook from `\resources]\logo.pgn` or create your own logo
   - Customize the report as needed.
   - Preview the report as a JPG directly within the notebook.
 
