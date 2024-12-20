@@ -1,8 +1,9 @@
 # 📊 Snowflake Automated PDF Report Generator 📊
 
-The **Snowflake Automated PDF Report Generator** is a proof-of-concept project designed to showcase the functionality and power of Snowflake Notebooks. This project demonstrates how to create a fully automated reporting pipeline for a fictional company, WidgetCo, using only Snowflake Notebook features.
+The **Snowflake Automated PDF Report Generator** is a **proof-of-concept project** designed to showcase the **functionality** and **power** of **Snowflake Notebooks**. This project demonstrates how to create a fully **automated reporting pipeline** for a fictional company, **WidgetCo**, using only **Snowflake Notebook features**.
 
-The result? A dynamic, daily PDF report of sales performance for three product lines (A, B, and C), personalized for three different managers. These reports are sent automatically via email and archived for future reference.
+The result? A **dynamic, daily PDF report** of **sales performance** for three product lines (**A, B, and C**), personalized for three different managers. These reports are sent automatically via **email** with **failure altering** and **archived for future reference**.
+
 
 https://github.com/user-attachments/assets/82e1c99c-a5b8-4a6c-967f-9b8965a58f10
 
