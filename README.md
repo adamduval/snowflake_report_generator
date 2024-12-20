@@ -4,7 +4,7 @@ The **Snowflake Automated PDF Report Generator** is a proof-of-concept project d
 
 The result? A dynamic, daily PDF report of sales performance for three product lines (A, B, and C), personalized for three different managers. These reports are sent automatically via email and archived for future reference.
 
-resources/report-demo.mp4.webm
+  <video src="resources/report-demo.mp4.webm" />
 
 ## 🔧 Key Features
 
