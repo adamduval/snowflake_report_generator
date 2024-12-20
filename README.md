@@ -11,12 +11,12 @@ https://github.com/user-attachments/assets/82e1c99c-a5b8-4a6c-967f-9b8965a58f10
 - **Dynamic PDF Report Generation:**
   - Generate PDF reports for product lines A, B, and C.
   - Custom data tailored for each manager.
-  
-  ![a-report](https://github.com/user-attachments/assets/d4057c0c-a6c4-4d00-be3a-9c079fcf37f9)
 
-  ![b-report](https://github.com/user-attachments/assets/a7840e76-a568-4b48-864d-8c8e0e0de551)
-
-  ![c-report](https://github.com/user-attachments/assets/7d0ddca8-c6da-41bb-8e83-3558f9815dd8)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d4057c0c-a6c4-4d00-be3a-9c079fcf37f9" alt="a-report" width="250"/>
+  <img src="https://github.com/user-attachments/assets/a7840e76-a568-4b48-864d-8c8e0e0de551" alt="b-report" width="250"/>
+  <img src="https://github.com/user-attachments/assets/7d0ddca8-c6da-41bb-8e83-3558f9815dd8" alt="c-report" width="250"/>
+</p>
 
 - **Email Failure Alerts:**
   - Automatic email notifications in case of report generation or delivery failures.
