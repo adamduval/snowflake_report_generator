@@ -4,42 +4,43 @@ The **Snowflake Automated PDF Report Generator** is a proof-of-concept project d
 
 The result? A dynamic, daily PDF report of sales performance for three product lines (A, B, and C), personalized for three different managers. These reports are sent automatically via email and archived for future reference.
 
-
-
 https://github.com/user-attachments/assets/82e1c99c-a5b8-4a6c-967f-9b8965a58f10
-
-
 
 ## 🔧 Key Features
 
 - **Dynamic PDF Report Generation:**
   - Generate PDF reports for product lines A, B, and C.
   - Custom data tailored for each manager.
+  
+  ![a-report](https://github.com/user-attachments/assets/d4057c0c-a6c4-4d00-be3a-9c079fcf37f9)
+
+  ![b-report](https://github.com/user-attachments/assets/a7840e76-a568-4b48-864d-8c8e0e0de551)
+
+  ![c-report](https://github.com/user-attachments/assets/7d0ddca8-c6da-41bb-8e83-3558f9815dd8)
 
 - **Email Failure Alerts:**
   - Automatic email notifications in case of report generation or delivery failures.
  
-    {{placeholder for alert image}}
+    ![email-warning](https://github.com/user-attachments/assets/d7b3bab4-b21f-4787-9da6-1bbc8ddf0301)
 
 - **Customizable Dynamic Emails:**
   - Each manager receives a personalized email with their respective report.
 
-  {{placeholder for report images}}
+  ![email-inbox](https://github.com/user-attachments/assets/147dc1f2-707e-4a83-8515-367768585c8e)
 
 - **Visualize Reports During Development:**
   - View the report directly within the notebook environment without needing to save it to a stage.
 
-  {{placeholder for notebook image with report}}
+  ![dark-report-in-nb](https://github.com/user-attachments/assets/5b776e32-e7ce-40d3-9fab-1dc803497914)
 
 - **Archive Management:**
   - All PDF reports are securely archived to an internal stage for easy future reference.
 
-  {{placeholder for stage folders image}}
+  ![stage-main](https://github.com/user-attachments/assets/497eead9-d850-4355-88cb-ce82eebead3d)
+  ![stage-a](https://github.com/user-attachments/assets/8e054d94-2a86-4fe7-942a-e112f38dd753)
 
 - **Simplified Workflow Management:**
-  - A single orchestrating notebook handles the entire process, supporting both ad-hoc runs and scheduled automation.
-
-  {{placeholder for failure image}}
+  - A single orchestration notebook handles the entire process, supporting both ad-hoc runs and scheduled automation.
 
 ---
 
